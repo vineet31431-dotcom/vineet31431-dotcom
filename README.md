@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Vineet
 
-<!--
-**vineet31431-dotcom/vineet31431-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python Programming
+- Data Structures & Algorithms
+- AI Systems Engineering
+
+## 🚀 Current Goal
+
+Become an AI Systems Engineer and build real-world AI applications.
+
+## 📂 Featured Project
+
+- Employee Data Processing System
+
+## 📚 Currently Working On
+
+- Python Learning Journey
+- DSA Repository
+
+## 💡 Learning Philosophy
+
+I believe the best way to learn programming is by building real projects, solving problems, and continuously improving my code.
