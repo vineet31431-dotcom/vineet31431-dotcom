@@ -19,7 +19,7 @@ Become an AI Systems Engineer and build real-world AI applications.
 ## 📚 Currently Working On
 
 - Python Learning Journey
-- DSA Repository
+- AI Engineering Course
 
 ## 💡 Learning Philosophy
 
